@@ -1,5 +1,5 @@
 # Knucklebones Game
-=================
+------------------------
 
 Knucklebones is a two-player dice-based game where players take turns rolling dice and filling out their matrices by selecting columns and removing matching dice from their opponent's matrix. The goal is to fill the matrix while maximizing your score based on the dice values in the columns.
 
